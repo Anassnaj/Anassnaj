@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning back-end web develepment
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jabibans@gmail.com
+- 📫 How to reach me jabibasan@gmail.com
 
 <!---
 Anassnaj/Anassnaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
